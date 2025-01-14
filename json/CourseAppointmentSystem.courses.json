@@ -1,0 +1,121 @@
+[{
+  "_id": {
+    "$oid": "67165e4ed39872ed126861d8"
+  },
+  "title": "PH1012",
+  "description": "PTS",
+  "teacher": "Alex",
+  "startWeek": {
+    "$date": "2024-10-13T13:58:39.000Z"
+  },
+  "endWeek": {
+    "$date": "2024-10-18T13:58:36.000Z"
+  },
+  "location": "TR69",
+  "maxStudents": 10,
+  "bookedBy": [
+    {
+      "$oid": "67165f29d39872ed126861df"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-21T13:59:42.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6717283bfd76951e1ee45749"
+  },
+  "title": "FYP",
+  "description": "The first Session",
+  "teacher": "Dr A",
+  "startWeek": {
+    "$date": "2024-10-18T09:00:00.155Z"
+  },
+  "endWeek": {
+    "$date": "2024-10-25T09:00:00.058Z"
+  },
+  "location": "TR69",
+  "maxStudents": 1,
+  "bookedBy": [
+    {
+      "$oid": "67165f29d39872ed126861df"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-22T04:21:15.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671729cafd76951e1ee45780"
+  },
+  "title": "1",
+  "description": "11",
+  "teacher": "1",
+  "startWeek": {
+    "$date": "2024-10-25T04:27:21.470Z"
+  },
+  "endWeek": {
+    "$date": "2024-11-29T09:27:27.504Z"
+  },
+  "location": "tr69",
+  "maxStudents": 1,
+  "bookedBy": [
+    {
+      "$oid": "67165f29d39872ed126861df"
+    }
+  ],
+  "createdAt": {
+    "$date": "2024-10-22T04:27:54.868Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671a56506c9a5edc94cc80ef"
+  },
+  "title": "1321",
+  "description": "事实上1123121213123",
+  "teacher": "aadasd",
+  "startWeek": {
+    "$date": "2024-10-24T14:09:55.000Z"
+  },
+  "endWeek": {
+    "$date": "2024-10-24T14:09:55.000Z"
+  },
+  "weeks": "1,2,5,4,7",
+  "location": "12321",
+  "maxStudents": 3,
+  "bookedBy": [],
+  "createdAt": {
+    "$date": "2024-10-24T14:14:40.598Z"
+  },
+  "__v": 0,
+  "isRecurring": true
+},
+{
+  "_id": {
+    "$oid": "671a5725301cbfc139acf303"
+  },
+  "title": "12312",
+  "description": "ssss",
+  "teacher": "ssada",
+  "startWeek": {
+    "$date": "2024-10-24T14:18:07.000Z"
+  },
+  "endWeek": {
+    "$date": "2024-10-24T14:18:07.000Z"
+  },
+  "weeks": "1,4,2,5",
+  "isRecurring": true,
+  "location": "12312",
+  "maxStudents": 1,
+  "bookedBy": [],
+  "createdAt": {
+    "$date": "2024-10-24T14:18:13.774Z"
+  },
+  "__v": 0
+}]

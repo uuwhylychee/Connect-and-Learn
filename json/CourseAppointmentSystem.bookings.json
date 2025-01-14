@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "67165f53d39872ed126861ee"
+  },
+  "userId": {
+    "$oid": "67165f29d39872ed126861df"
+  },
+  "courseId": {
+    "$oid": "67165e4ed39872ed126861d8"
+  },
+  "status": "confirmed",
+  "bookingTime": {
+    "$date": "2024-10-21T14:04:03.651Z"
+  },
+  "endTime": {
+    "$date": "2024-10-21T14:04:03.651Z"
+  },
+  "createdAt": {
+    "$date": "2024-10-21T14:04:03.651Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671717b3fd76951e1ee456c5"
+  },
+  "userId": {
+    "$oid": "67171777fd76951e1ee456b2"
+  },
+  "courseId": {
+    "$oid": "6717173efd76951e1ee456af"
+  },
+  "status": "confirmed",
+  "bookingTime": {
+    "$date": "2024-10-22T03:10:43.603Z"
+  },
+  "endTime": {
+    "$date": "2024-10-22T03:10:43.603Z"
+  },
+  "createdAt": {
+    "$date": "2024-10-22T03:10:43.603Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67172859fd76951e1ee45759"
+  },
+  "userId": {
+    "$oid": "67165f29d39872ed126861df"
+  },
+  "courseId": {
+    "$oid": "6717283bfd76951e1ee45749"
+  },
+  "status": "confirmed",
+  "bookingTime": {
+    "$date": "2024-10-22T04:21:45.863Z"
+  },
+  "endTime": {
+    "$date": "2024-10-22T04:21:45.863Z"
+  },
+  "createdAt": {
+    "$date": "2024-10-22T04:21:45.863Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671729dcfd76951e1ee4578a"
+  },
+  "userId": {
+    "$oid": "67165f29d39872ed126861df"
+  },
+  "courseId": {
+    "$oid": "671729cafd76951e1ee45780"
+  },
+  "status": "confirmed",
+  "bookingTime": {
+    "$date": "2024-10-22T04:28:12.876Z"
+  },
+  "endTime": {
+    "$date": "2024-10-22T04:28:12.876Z"
+  },
+  "createdAt": {
+    "$date": "2024-10-22T04:28:12.876Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,76 @@
+[{
+  "_id": {
+    "$oid": "671a2bb6d434bd851a16358b"
+  },
+  "username": "admin",
+  "email": "admin@163.com",
+  "disabled": false,
+  "studentID": "",
+  "password": "admin",
+  "author": "",
+  "role": 1,
+  "goals": "",
+  "difficulty": "",
+  "languages": "",
+  "createdAt": {
+    "$date": "2024-10-24T11:12:54.259Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67165f29d39872ed126861df"
+  },
+  "username": "student",
+  "email": "student@163.com",
+  "studentID": "001",
+  "password": "student",
+  "author": "",
+  "role": 0,
+  "goals": "",
+  "difficulty": "",
+  "languages": "",
+  "createdAt": {
+    "$date": "2024-10-21T14:03:21.181Z"
+  },
+  "__v": 0,
+  "disabled": false
+},
+{
+  "_id": {
+    "$oid": "67165f40d39872ed126861e2"
+  },
+  "username": "tutor",
+  "email": "tutor@163.com",
+  "studentID": "002",
+  "password": "tutor",
+  "author": "",
+  "role": 2,
+  "goals": "",
+  "difficulty": "",
+  "languages": "",
+  "createdAt": {
+    "$date": "2024-10-21T14:03:44.437Z"
+  },
+  "__v": 0,
+  "disabled": false
+},
+{
+  "_id": {
+    "$oid": "6717289efd76951e1ee4575d"
+  },
+  "username": "student1",
+  "email": "student@163.com",
+  "disabled": false,
+  "studentID": "U12345",
+  "password": "test123",
+  "author": "author/moren.jpg",
+  "role": 0,
+  "goals": "",
+  "difficulty": "",
+  "languages": "",
+  "createdAt": {
+    "$date": "2024-10-22T04:22:54.432Z"
+  },
+  "__v": 0
+}]
